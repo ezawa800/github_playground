@@ -7,4 +7,4 @@ aboutページもリニューアルするよ
 tweak
 tweak
 
-pages ディレクトリ使ってね
+pages ディレクトリ使ってね。
