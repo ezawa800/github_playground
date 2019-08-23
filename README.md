@@ -6,3 +6,5 @@ aboutページもリニューアルするよ
 
 tweak
 tweak
+
+pages ディレクトリ使ってね
